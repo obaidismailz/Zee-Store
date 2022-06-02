@@ -1,0 +1,69 @@
+[{
+  "_id": {
+    "$oid": "62965af45de4a65a4cacd5c3"
+  },
+  "firstShow": 0,
+  "slideImage": "1654020852339_Legion 7.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654020852343"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654020852343"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62965af85de4a65a4cacd5c6"
+  },
+  "firstShow": 0,
+  "slideImage": "1654020856949_Mac.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654020856952"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654020856952"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62965afb5de4a65a4cacd5c9"
+  },
+  "firstShow": 0,
+  "slideImage": "1654020859361_headphoe.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654020859366"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654020859366"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62965aff5de4a65a4cacd5cc"
+  },
+  "firstShow": 0,
+  "slideImage": "1654020863612_sn.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654020863614"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654020863614"
+    }
+  },
+  "__v": 0
+}]

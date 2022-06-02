@@ -1,0 +1,115 @@
+[{
+  "_id": {
+    "$oid": "62965bd05de4a65a4cacd602"
+  },
+  "cName": "Laptop",
+  "cDescription": "Laptop",
+  "cStatus": "Active",
+  "cImage": "1654021072499_laptop.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654021072503"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654021072503"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "629669b5d75b925024bd3c82"
+  },
+  "cName": "Shoes",
+  "cDescription": "Shoes",
+  "cStatus": "Active",
+  "cImage": "1654024629846_ss.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654024629859"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654024629859"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296759dd75b925024bd3e2e"
+  },
+  "cName": "Security",
+  "cDescription": "Digital Security",
+  "cStatus": "Active",
+  "cImage": "1654027677142_c1.webp",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654027677152"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654027677152"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6296798dd75b925024bd3ea4"
+  },
+  "cName": "Watches",
+  "cDescription": "Watches",
+  "cStatus": "Active",
+  "cImage": "1654028685362_w1.webp",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654028685367"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654028685367"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62967a9fd75b925024bd3ee9"
+  },
+  "cName": "Chair",
+  "cDescription": "Chairs",
+  "cStatus": "Active",
+  "cImage": "1654028959074_c1.webp",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654028959081"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654028959081"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6297452f6ebd6659780963b9"
+  },
+  "cName": "Smoothie",
+  "cDescription": "FRUIT SMOOTHIE\r\n",
+  "cStatus": "Active",
+  "cImage": "1654080815653_t2.webp",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654080815662"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654080815662"
+    }
+  },
+  "__v": 0
+}]

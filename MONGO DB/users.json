@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "62965ab85de4a65a4cacd5aa"
+  },
+  "userImage": "user.png",
+  "verified": "false",
+  "secretKey": null,
+  "history": [],
+  "name": "Admin",
+  "email": "admin@admin.com",
+  "password": "$2a$10$kBZ.KpHkYpC0xvUqCHAVw.mpWqtrHaEDt22LuZ8t5vjE0N9nYc2bC",
+  "userRole": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654020792592"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654020792592"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62971d2e6ebd6659780961a8"
+  },
+  "userImage": "user.png",
+  "verified": "false",
+  "secretKey": null,
+  "history": [],
+  "name": "Obaid Ismail",
+  "email": "obaid@outlook.hu",
+  "password": "$2a$10$1lAxaXhWtP7be6GmvC2YRudAThQUJ.fVNv9Ue.71Lx6XZ.0bxZUuq",
+  "userRole": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654070574114"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654070574114"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6297407d6ebd665978096300"
+  },
+  "userImage": "user.png",
+  "verified": "false",
+  "secretKey": null,
+  "history": [],
+  "name": "Zeeshan",
+  "email": "zeeshan@gmail.com",
+  "password": "$2a$10$CVZY92ZoP1LeIK4uvVcZBu5WdNwpZCBm276UPHyNUaQCDo7sMtVem",
+  "userRole": 1,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1654079613881"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1654079613881"
+    }
+  },
+  "__v": 0
+}]
