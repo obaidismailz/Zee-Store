@@ -1,0 +1,15 @@
+Group Members
+190892 Obaid Ismail
+190908 Muhammad Zeeshan Gull
+
+
+Commands
+First
+npm install in both server and client
+Then
+npm run start:dev
+npm run start
+
+Admin panel 
+email       admin@admin.com
+password    adminadmin
