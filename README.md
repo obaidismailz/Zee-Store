@@ -1,5 +1,5 @@
 # Zee-Store
-Zee Store is Ecommerce website which contains different products to buy
+Zee Store is Ecommerce website which contains different products to buy.
 
 1: Slider
 ![1 Slider](https://user-images.githubusercontent.com/33636405/171635260-0d04283f-88cf-4e7a-8d0c-57edf0693857.jpg)
